@@ -55,7 +55,7 @@ nav{
    }
    .hero{
     height: 100vh;
-   background-image: url('hero.jpg');
+   background-image: url('hero.webp');
    background-position: center;
    background-size: cover;
    background-repeat: no-repeat;
@@ -163,7 +163,7 @@ nav{
    
    }
 .public{
-    background-image: url('mc.jpg');
+    background-image: url('mc.webp');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -205,7 +205,7 @@ nav{
 .giftimg{
     height: 300px;
     width: 60vw;
-    border: 2px solid black;
+    /* border: 2px solid black; */
     box-shadow: 3px 3px 10px 2px rgb(168, 162, 162);
 }
 .giftimg:hover{
